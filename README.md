@@ -1,11 +1,10 @@
-Currently on week 1 of my first #100daysofcode.
+## #100daysofcode Round 1
 
-**Goals for this week:**
-
-- [x] Chapter 1 of Python Crash Course by Eric Matthes
-- [ ] Complete half of the Responsive Web Design course at freeCodeCamp
-- [x] Buy www.angiebowen.com
-- [ ] Start sketching out portfolio ideas
+**Goals for Round 1**
+- [ ] Complete the Responsive Web Design course at freeCodeCamp
+- [ ] Begin JavaScript Algorithms and Data Structures at freeCodeCamp
+- [ ] Get basic website/resume put up
+- [ ] Build something for my portfolio
 
 **My Path**
 - [ ] html/CSS
