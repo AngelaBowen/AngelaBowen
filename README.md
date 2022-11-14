@@ -7,6 +7,14 @@ Currently on week 1 of my first #100daysofcode.
 - [x] Buy www.angiebowen.com
 - [ ] Start sketching out portfolio ideas
 
+**My Path**
+- [ ] html/CSS
+- [ ] Javascript
+- [ ] Git
+- [ ] jQuery
+- [ ] Python
+- [ ] React
+
 <!---
 AngelaBowen/AngelaBowen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
