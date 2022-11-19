@@ -7,12 +7,12 @@
 - [ ] Build something for my portfolio
 
 **My Path**
-- [ ] html/CSS
+- [x] html/CSS
 - [ ] Javascript
-- [ ] Git
-- [ ] jQuery
-- [ ] Python
+- [ ] Sass
 - [ ] React
+- [ ] Figma
+- [ ] Git
 
 <!---
 AngelaBowen/AngelaBowen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
