@@ -2,7 +2,7 @@
 
 **Goals for Round 1**
 - [ ] Complete the Responsive Web Design course at freeCodeCamp
-- [ ] Begin JavaScript Algorithms and Data Structures at freeCodeCamp
+- [x] Begin JavaScript Algorithms and Data Structures at freeCodeCamp
 - [x] Get basic website/resume put up
 - [ ] Build something for my portfolio
 
