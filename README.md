@@ -16,12 +16,24 @@
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 
-### It's a pleasure to meet you! 
-I'm currently working as a freelance front-end web developer while working toward full-stack status. I'm the former owner of the Arbenting Design Blog. I took some time off to finish my psychology degree. I've since applied this new skillset to my true passion.   
+<br/><br/>
+
+## It's a pleasure to meet you! 
+I'm currently working as a freelance front-end web developer while working toward full-stack status. I founded the Arbenting Design Blog in 2005 and ran it until 2011 when I faced a massive case of burnout and needed a break. So I took some time off to finish my psychology degree. Since graduating I've attempted a few different paths forward but none of them gave me what coding ahd always given me.
+
+After much thought I realized that psychology and web development, more specifically user experience and need, went hand in hand. Now I'm finally able to put my to loves together and I haven't been this happy in years.
+
+- 🗓️ #100DaysOfCode
+- 🌱 Learning JavaScript  
+- 🦉 Night Owl  
+- 🎨 Procreate Artist  
+- ⚡ Fun fact: I'm named after a Rolling Stones song  
 
 <br/>
 
-## Languages and Tools  
+<br/>
+
+## Weapons of Choice  
 <div align="center">  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
@@ -36,22 +48,7 @@ I'm currently working as a freelance front-end web developer while working towar
 
 <br/>
 
-## Rapidfire  
-- 🗓️ #100DaysOfCode  
-  
 
-- 🌱 Learning JavaScript  
-  
-
-- 🦉 Night Owl  
-  
-
-- 🎨 Procreate Artist  
-  
-
-- ⚡ Fun fact: I'm named after a Rolling Stones song  
-
-<br/>
   
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
